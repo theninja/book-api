@@ -1,0 +1,8 @@
+{
+	"name": "theninja/book-api",
+	"description": "",
+	"require": {
+		"php": ">=5.3"
+	},
+	"license": "MIT"
+}
